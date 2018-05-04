@@ -10,3 +10,10 @@ Integrantes:
 Grupo A1:
 
 >Puntarrón
+
+Comentarios:
+
+>Hemos cambiado el pie de página porque nos resulta más adecuado el que hemos implementado.
+
+>En la página de inicio aparecen ejemplos de los últimos `eventos.html`, así como ejemplos de 
+imágenes en `galeria.html`.
